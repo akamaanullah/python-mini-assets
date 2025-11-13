@@ -1,0 +1,65 @@
+J File Edit Selection View Go Run Terminal Help By
+
+® apppy Screenshot Capture Uity X
+
+if) aes @ appry @ appry
+\ PYTHON-PROJECT Screenshot Capture Utility > @ app.py >...
+p > mil qodo import pyautogui.
+> RB venv
+L 7 ‘Qodo Gen: Options | Test this function
+go (CEE REETIELET def take_screenshot(filename-"screenshot.png”):
+®@ apppy screenshot = pyautogui.screenshot()
+b> Bil arcode creator screenshot. save( filename)
+& Y ‘@i Screenshot Capture Utility print(f"Screenshot saved as {filename}”)
+© apppy
+
+take_screenshot()
+
+o
+ES > at text-to-speech
+> mil youtubde-video-downloader
+
+A © 3 second Videomp4.
+~— mahad-.mp3
+
+= mahad.mp3
+WE qrcode.png
+
+i speech.mp3
+
+%
+> OUTUNE
+> TIMELINE
+PROBLEMS OUTPUT DEBUGCONSOLE TERMINAL PORTS dbo a
+PS D:\python-project> pip install yt-dlp 1, 21 Powershell
+» | @ython A
+Collecting yt-dlp
+Dounloading yt_dlp-2025.2.19-py3-none-any.whl.metadata (171 kB)
+
+Downloading yt_dlp-2025..
+
+.19-py3-none-any.whl (3.2 MB)
+3.2/3.2 MB 968.1 kB/s eta 0:00:00
+
+Installing collected packages: yt-dlp
+successfully installed yt-dlp-2025.2.19
+© PS D:\python-project> & C: /Users/User/AppData/Local /Programs/Python/Python313/python.exe d:/python-project/youtubde-video-downloader/app.py
+
+[youtube] Extracting URL: https: //uuw.youtube..com/watch?v=108yazhqaxs LF
+[youtube] 10ayazhqaxs: Downloading webpage
+[youtube] 10ayazhqaxs: Downloading tv client config
+[youtube] 100yazhqaxs: Downloading player Sae7d525 mn
+[youtube] 10ayazhqaxs: Downloading tv player API JSON
+[youtube] 10ayazhqaxs: Downloading ios player API JSON
+[youtube] 100yazhqaxs: Downloading m3u8 information
+
+Q)_ [info] s00yazhqaxs: Downloading 1 formats): 18 4
+[dounload] Destination: 3 Second Video.mp4
+
+. [dounload] 100% of 54.@8KiB in @@: at 26.12KiB/s
+§83 © PS D:\python-project> & C:/Users/User/AppData/Local/Prograns /Python/Python313/python.exe “d:/python-project/Screenshot Capture Utility/app.py" r
+
+12:51AM
+
+=» ®©m BQOCOHM OBS CASE DB A382) sams &
+
